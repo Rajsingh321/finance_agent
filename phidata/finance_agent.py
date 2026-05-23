@@ -1,4 +1,3 @@
-print("Radhe Radhe")
 import phi
 from phi.agent import Agent
 import phi.api
